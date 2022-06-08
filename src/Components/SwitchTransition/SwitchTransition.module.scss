@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@500;700&display=swap');
+.danger{
+    color: white;
+    font-family: 'Epilogue', sans-serif;
+    background-color: #DC3545;
+    padding: 15px 25px;
+    border-radius: 4px;
+}
+
+.success{
+    color: white;
+    font-family: 'Epilogue', sans-serif;
+    background-color: #28A745;
+    padding: 15px 25px;
+    border-radius: 4px;
+}
+
+.button{
+    width: 20%;
+    font-family: 'Epilogue', sans-serif;
+    background-color: #0D6EFD;
+    border: 1px solid #0D6EFD;
+    cursor: pointer;
+    color: white;
+    transition: ease-in 0.2s;
+    padding: 10px;
+    border-radius: 4px;
+}
+.button:hover{
+    background-color: #0a54c4;
+
+}
